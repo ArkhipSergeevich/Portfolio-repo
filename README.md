@@ -16,4 +16,4 @@
    ## В работе:
    1. Обладаю максимальным возможным рейтингом среди репетиторов профи.ру
 # Фото
- ![фото](https://drive.google.com/file/d/1_TnoaDVkd7JVJk4ELp2JsUeAn5Adik1T/view?usp=share_link)
+ ![фото]((https://github.com/ArkhipSergeevich/Test/raw/main/фото/фото.png))
