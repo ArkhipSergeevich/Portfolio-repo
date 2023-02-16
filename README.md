@@ -16,4 +16,4 @@
    ## В работе:
    1. Обладаю максимальным возможным рейтингом среди репетиторов профи.ру
 # Фото
- ![фото](C:/Users/Admin/Downloads/ohoHAyvuoN8.jpg)
+ ![фото](https://drive.google.com/file/d/1_TnoaDVkd7JVJk4ELp2JsUeAn5Adik1T/view?usp=share_link)
